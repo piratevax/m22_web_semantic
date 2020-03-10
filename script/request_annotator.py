@@ -7,10 +7,23 @@ URL = "http://data.bioontology.org/annotator?"
 DEBUG = False
 
 def arg_parser():
-    parser = argparse.ArgumentParser(description = "Execute REST request to annotator (https://bioportal.bioontology.org/annotator) pubmed abstract.")
+    parser = argparse.ArgumentParser(description = "Execute REST request to annotator ( https://bioportal.bioontology.org/annotator ) pubmed abstract.")
+    semanticGroup = parser.add_argument_group()
     parser.add_argument("input", help = "input file name from pubmed (XML format)")
     parser.add_argument("output", help = "output file name")
-    parser.add_argument("apikey", help = "mandatory key to acces and tuse the api")
+    parser.add_argument("apikey", help = "mandatory key to access and use the REST API")
+    parser.add_argument("--ontologies", help = "ontologies ID(s)", nargs = "+")
+    semanticGroup.add_argument("--semantic-types", help = "semantic type(s)", nargs = "+")
+    semanticGroup.add_argument("--semantic-type-hierarchy", help = 'true means to use the semantic types passed in the "semantic_types" parameter as well as all their immediate children. false means to use ONLY the semantic types passed in the "semantic_types" parameter -- [default: False]', action = "store_true", default = False)
+    parser.add_argument("--expand-class-hierarchy", help = 'used only in conjunction with "class_hierarchy_max_level" parameter; determines whether or not to include ancestors of the given class when performing an annotation -- [default: False]', action = "store_true",default = False)
+    parser.add_argument("--class-hierarchy-max-level", type = int, help = 'the depth of the hierarchy to use when performing an annotation, class_hierarchy_max_level = {0..N} -- [default: 0]', default = 0)
+    parser.add_argument("--expand-mappings", help = 'true means that the following manual mappings will be used in annotation: UMLS, REST, CUI, OBOXREF -- [default: False]', action = "store_true", default = False)
+    parser.add_argument("--stop-words", help = 'list of stop words (case sensitive)', type = str, nargs = "+")
+    parser.add_argument("--minimum-match-length", help = "minimum match length {0..N}", type = int)
+    parser.add_argument("--exclude-numbers", help = "exclude numbers -- [default: False]", action = "store_true", default = False)
+    parser.add_argument("--whole-word-only", help = "whole word only -- [default: True]", action = "store_false", default = True)
+    parser.add_argument("--exlcude-synonyms", help = "exclude synonyms-- [default: False]", action = "store_true", default = False)
+    parser.add_argument("--longest_only", help = "true means that only the longest match for a given phrase will be returned -- [default: False]", action = "store_true", default = False)
     parser.add_argument("-d", "--debug", help = "execute the script in DEBUG mode", action = "store_true")
     return parser.parse_args()
 
