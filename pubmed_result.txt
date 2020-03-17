@@ -1,0 +1,71 @@
+
+1: Merentitis D, Nguyen BD, Samartzis EP, Noske A, Brandt S, Dedes KJ. Loss of
+MDC1 in Endometrial Carcinoma Is Associated With Loss of MRN Complex and MMR
+Deficiency. Anticancer Res. 2019 Dec;39(12):6547-6553. doi:
+10.21873/anticanres.13870. PubMed PMID: 31810920.
+
+
+2: Petrelli F, Ghidini M, Cabiddu M, Pezzica E, Corti D, Turati L, Costanzo A,
+Varricchio A, Ghidini A, Barni S, Tomasello G. Microsatellite Instability and
+Survival in Stage II Colorectal Cancer: A Systematic Review and Meta-analysis.
+Anticancer Res. 2019 Dec;39(12):6431-6441. doi: 10.21873/anticanres.13857.
+Review. PubMed PMID: 31810907.
+
+
+3: Wild PJ. [Importance of tumour mutation burden testing]. Pathologe. 2019
+Dec;40(Suppl 3):366-368. doi: 10.1007/s00292-019-00717-3. German. PubMed PMID:
+31807843.
+
+
+4: Razavi P, Li BT, Brown DN, Jung B, Hubbell E, Shen R, Abida W, Juluru K, De
+Bruijn I, Hou C, Venn O, Lim R, Anand A, Maddala T, Gnerre S, Vijaya Satya R, Liu
+Q, Shen L, Eattock N, Yue J, Blocker AW, Lee M, Sehnert A, Xu H, Hall MP,
+Santiago-Zayas A, Novotny WF, Isbell JM, Rusch VW, Plitas G, Heerdt AS, Ladanyi
+M, Hyman DM, Jones DR, Morrow M, Riely GJ, Scher HI, Rudin CM, Robson ME, Diaz LA
+Jr, Solit DB, Aravanis AM, Reis-Filho JS. High-intensity sequencing reveals the
+sources of plasma circulating cell-free DNA variants. Nat Med. 2019
+Dec;25(12):1928-1937. doi: 10.1038/s41591-019-0652-7. Epub 2019 Nov 25. PubMed
+PMID: 31768066; PubMed Central PMCID: PMC7061455.
+
+
+5: van Dessel LF, van Riet J, Smits M, Zhu Y, Hamberg P, van der Heijden MS,
+Bergman AM, van Oort IM, de Wit R, Voest EE, Steeghs N, Yamaguchi TN, Livingstone
+J, Boutros PC, Martens JWM, Sleijfer S, Cuppen E, Zwart W, van de Werken HJG,
+Mehra N, Lolkema MP. The genomic landscape of metastatic castration-resistant
+prostate cancers reveals multiple distinct genotypes with potential clinical
+impact. Nat Commun. 2019 Nov 20;10(1):5251. doi: 10.1038/s41467-019-13084-7.
+PubMed PMID: 31748536; PubMed Central PMCID: PMC6868175.
+
+
+6: Reynolds IS, O'Connell E, Fichtner M, McNamara DA, Kay EW, Prehn JHM, Furney
+SJ, Burke JP. Mucinous adenocarcinoma of the colon and rectum: A genomic
+analysis. J Surg Oncol. 2019 Dec;120(8):1427-1435. doi: 10.1002/jso.25764. Epub
+2019 Nov 14. PubMed PMID: 31729037.
+
+
+7: Katafygiotis P, Sakellariou S, Chatziandreou I, Giannopoulou I, Thymara I,
+Saetta AA, Korkolopoulou P. Microsatellite Instability in Greek Colorectal
+Carcinoma Patients: Clinicopathological and Molecular Correlations. Anticancer
+Res. 2019 Nov;39(11):6379-6387. doi: 10.21873/anticanres.13851. PubMed PMID:
+31704871.
+
+
+8: Fehniger JE, Berger AA, Juckett L, Elvin J, Levine DA, Zajchowski DA.
+Comprehensive genomic sequencing of paired ovarian cancers reveals discordance in
+genes that determine clinical trial eligibility. Gynecol Oncol. 2019
+Dec;155(3):473-482. doi: 10.1016/j.ygyno.2019.10.004. Epub 2019 Nov 6. PubMed
+PMID: 31703812.
+
+
+9: Brandl L, Horst D, Grünewald TGP, Mayerle J, Sendelhofert A, Neumann J,
+Kirchner T, De Toni EN. Clinical Evidence on the Interaction Between MLK4, KRAS
+and Microsatellite Instability to Determine the Prognosis of Early-Stage
+Colorectal Carcinoma. Cell Physiol Biochem. 2019;53(5):820-831. doi:
+10.33594/000000175. PubMed PMID: 31701729.
+
+
+10: Evans SJ, Gollapudi B, Moore MM, Doak SH. Horizon scanning for novel and
+emerging in vitro mammalian cell mutagenicity test systems. Mutat Res. 2019
+Nov;847:403024. doi: 10.1016/j.mrgentox.2019.02.005. Epub 2019 Feb 21. Review.
+PubMed PMID: 31699342.
+
