@@ -15,9 +15,23 @@
 
 Nous avons choisis de générer notre corpus à partir des articles contenant le terme MeSH : \emph{Microsatellite instability}.
 Nous avons obtenus un corpus composés des résumés de $3093$ articles.
+Ce corpus est au format XML.
 
 \section{Fouille de données}
 
 \subsection{Pré-traitement des données}
+
+Pour la fouille de données, nous nous intéressons aux termes MeSH et aux qualifiers.
+Le pré-traitement que nous avons appliqué se déroule en 2 étapes :
+\begin{enumerate}
+    \item Extraction des termes MeSH et qualifiers.
+    \item formatage pour l'outil de fouille (Weka).
+\end{enumerate}
+
+\subsubsection{Extraction des termes et qualifiers}
+
+Nous avons exécutés une requête XQUERY afin d'extraire les balises correspondantes.
+Si il n'y a pas de qualifier associé au terme MeSH, un \emph{NA} sera inséré.
+Le résultat de la requête fourni un fichier XML contenant pour chaque article les termes et qualifiers associés.
 
 \end{document}
